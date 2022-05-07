@@ -1,23 +1,3 @@
-# Vishal-Raj
-Mobile App Architect &amp; Developer, I have proven success with developing and architecting platform-dependent and independent applications for phones. I have 6+ years of android application development experience in Java/Kotlin, and 2 years of flutter in Dart, in a cooperative environment with agile methodology. 
-
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9722
-Fork on GitHub
-2360
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Vishal Raj</h1>
 <h3 align="center">Mobile App Architect & Developer, India</h3>
 
