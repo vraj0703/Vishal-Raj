@@ -1,5 +1,20 @@
-# 💫 PHILOSOPHY:
-<br>Code is Craft<br>I view coding as both an intellectual and creative pursuit — I enjoy reading code deeply, recognizing patterns, and treating structure like a well-played game of Tetris.<br>Quality over Haste<br>I don’t commit to solutions unless they meet industry standards of quality, maintainability, and clarity — solving problems thoughtfully, not just quickly.<br>Eliminate, Simplify, Strengthen<br>I believe in continuously improving code by removing repetition through frameworks and architecture, which enhances long-term maintainability and keeps development engaging.<br>Ideas over Distractions<br>I value teams and discussions that revolve around ideas and solutions — prioritizing growth, curiosity, and principle in the way I work and collaborate.
+### 🚀 Building with Intention: My Development Manifesto
+
+For me, code is a living, breathing thing—something to be nurtured and perfected. My approach to development is fueled by a commitment to avoid stagnation, to always be creating, and to never settle for "good enough."
+
+#### 👩‍💻 The Craft of Code
+I view coding as both an intellectual and creative pursuit. I enjoy reading code deeply, recognizing elegant patterns, and treating structure like a strategic game.
+
+#### 🛡️ Prioritizing Quality
+My commitment is to building durable, high-quality software. I won't propose a solution unless it meets industry standards for maintainability and clarity. My focus is on solving problems thoughtfully, not just quickly.
+
+#### 🏗️ The Art of Simplification
+I believe in continuously improving code by removing repetition through smart frameworks and architecture. This not only enhances long-term maintainability but also keeps the development process engaging.
+
+#### 🧠 The Power of Ideas
+I value teams and discussions that revolve around ideas and principled solutions. I thrive in collaborative environments that prioritize growth and curiosity over distractions. Let's build something great together.
+
+
 
 
 ## 🌐 Socials:
